@@ -4,3 +4,8 @@
     color: darkblue;
 }
 
+.container{
+    background-color: bisque;
+    width: 80vw;
+    margin: 0 auto;
+}
